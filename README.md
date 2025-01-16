@@ -14,7 +14,7 @@ Aprendiendo TypeScript con Sergie Code -> https://youtu.be/UTA5bykCx2c
 
 2) Para ver la version --> tsc -v ("tsc" es el comando de TypeScript)
 
-3) Comando para iniciar nuestro proyecto TypeScript ---> tsc -init
+3) Comando para iniciar nuestro proyecto TypeScript ---> tsc --init
 
 4) Comando para usar el modo observador global ---> tsc -w (Funciona despues de inicializar el proyecto TypeScript)
 
